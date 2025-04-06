@@ -1,0 +1,70 @@
+
+.dashboard-container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+.dashboard-title {
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: #7783dd;
+}
+
+.dashboard-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.dashboard-card {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.dashboard-card:hover {
+    transform: scale(1.05);
+}
+
+.dashboard-btn {
+    display: block;
+
+    margin-top: 10px;
+    text-align: center;
+    justify-items: center;
+    background: white;
+    color: #7783dd;
+    padding: 8px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.dashboard-btn:hover {
+    background-color: white;
+    color: #7783dd;
+    border-color: #FFD565;;
+}
+.dashboard-create-btn {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    padding: 10px;
+    background: white;
+    color: #7783dd;
+    font-size: 20px;
+    border: 2px solid #7783dd;
+    border-radius: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.dashboard-create-btn:hover {
+    background-color: white;
+    color: #7783dd;
+    border-color: #FFD565;;
+}
