@@ -41,10 +41,13 @@ A full-stack real-time document collaboration web app where multiple users can c
 
 
 
-
+---
 💡Future Improvements :-
 
-:- Add document version history
-:- Add comment/chat feature
-:- Deployment on Vercel/Render
-:- Role-based access (edit/view)
+-  Add document version history
+-  Add comment/chat feature 
+- Deployment on Vercel/Render 
+- Role-based access (edit/view)
+
+   
+   
