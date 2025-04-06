@@ -25,5 +25,12 @@ Real-Time:- Socket.IO
 
 
 
-## 📁 Project Structure
+Project Structure 📁 
 
+
+Future Improvements 💡
+
+:- Add document version history
+:- Add comment/chat feature
+:- Deployment on Vercel/Render
+:- Role-based access (edit/view)
